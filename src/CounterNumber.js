@@ -64,6 +64,7 @@ const styles = StyleSheet.create({
         color: 'white',
         fontSize: 20,
         display: 'flex',
+        justifyContent: 'center',
         textAlign: 'center',
         fontFamily: 'monospace',
         // justifyContent:"flex-end"
